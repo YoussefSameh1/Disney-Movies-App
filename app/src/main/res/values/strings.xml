@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Disney movies</string>
+    <string name="cars_year">2006</string>
+    <string name="cars_duration">1h 56m</string>
+    <string name="cars_description">On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn\'t everything in life.</string>
+    <string name="cars_rating">7.2</string>
+    <string name="cars_quote">I wanted to give the folks a little sizzle. - Lightning McQueen</string>
+    <string name="cars_characters">
+        * Lightning McQueen
+        \n* Mater
+        \n* Sally Carrera
+        \n* Doc Hudson
+        \n* Chick Hicks </string>
+    <string name="finding_nemo_year">2003</string>
+    <string name="finding_nemo_duration">1h 40m</string>
+    <string name="finding_nemo_description">After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.</string>
+    <string name="finding_nemo_rating">8.2</string>
+    <string name="finding_nemo_quote">Just keep swimming. –Dory</string>
+    <string name="finding_nemo_characters">
+        * Marlin
+        \n* Nemo
+        \n* Dory
+        \n* Bruce
+        \n* Gill</string>
+    <string name="monsters_inc_year">2001</string>
+    <string name="monsters_inc_duration">1h 32m</string>
+    <string name="monsters_inc_description">In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.</string>
+    <string name="monsters_inc_rating">8.1</string>
+    <string name="monsters_inc_quote">You and I are a team. There is nothing more important than our friendship. –Mike Wazowski</string>
+    <string name="monsters_inc_characters">
+        * James P. "Sulley" Sullivan
+        \n* Mike Wazowski
+        \n* Boo
+        \n* Randall Boggs
+        \n* Henry J. Waternoose III </string>
+    <string name="monsters_university_year">2013</string>
+    <string name="monsters_university_duration">1h 44m</string>
+    <string name="monsters_university_description">A look at the relationship between Mike Wazowski and James P. (Sully) Sullivan during their days at Monsters University, when they were not necessarily the best of friends.</string>
+    <string name="monsters_university_rating">7.2</string>
+    <string name="monsters_university_quote">"You and me together, that's how it should always be. One without the other don't mean nothing to me." - Mike and Sulley</string>
+    <string name="monsters_university_characters">
+        * James P. "Sulley" Sullivan
+        \n* Mike Wazowski
+        \n* Randy Boggs (Randall)
+        \n* Dean Hardscrabble
+        \n* Don Carlton </string>
+    <string name="ratatouille_year">2007</string>
+    <string name="ratatouille_duration">1h 51m</string>
+    <string name="ratatouille_description">A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.</string>
+    <string name="ratatouille_rating">8.1</string>
+    <string name="ratatouille_quote">"If you focus on what you left behind you will never see what lies ahead." - Gusteau</string>
+    <string name="ratatouille_characters">
+        * Remy
+        \n* Alfredo Linguini
+        \n* Colette Tatou
+        \n* Anton Ego
+        \n* Chef Skinner </string>
+    <string name="tangled_year">2010</string>
+    <string name="tangled_duration">1h 40m</string>
+    <string name="tangled_description">The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.</string>
+    <string name="tangled_rating">7.7</string>
+    <string name="tangled_quote">"I have magic hair that glows when I sing." - Rapunzel</string>
+    <string name="tangled_characters">
+        * Rapunzel
+        \n* Flynn Rider (Eugene Fitzherbert)
+        \n* Mother Gothel
+        \n* Pascal (chameleon)
+        \n* Maximus (horse) </string>
+    <string name="the_incredibles_year">2004</string>
+    <string name="the_incredibles_duration">1h 55m</string>
+    <string name="the_incredibles_description">While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.</string>
+    <string name="the_incredibles_rating">8.0</string>
+    <string name="the_incredibles_quote">"I never look back, darling. It distracts from the now." - Edna Mode</string>
+    <string name="the_incredibles_characters">
+        * Bob Parr / Mr. Incredible
+        \n* Helen Parr / Elastigirl
+        \n* Violet Parr
+        \n* Dash Parr
+        \n* Jack-Jack Parr
+        \n* Syndrome (Buddy Pine) </string>
+    <string name="the_lion_king_year">1994</string>
+    <string name="the_lion_king_duration">1h 28m</string>
+    <string name="the_lion_king_description">Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.</string>
+    <string name="the_lion_king_rating">8.5</string>
+    <string name="the_lion_king_quote">"Remember who you are. You are my son, and the one true king." - Mufasa</string>
+    <string name="the_lion_king_characters">
+        * Simba
+        \n* Mufasa
+        \n* Scar
+        \n* Nala
+        \n* Timon
+        \n* Pumbaa </string>
+    <string name="toy_story_year">1995</string>
+    <string name="toy_story_duration">1h 21m</string>
+    <string name="toy_story_description">A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy bedroom.</string>
+    <string name="toy_story_rating">8.3</string>
+    <string name="toy_story_quote">This isn’t flying. This is falling with style. - Buzz Lightyear</string>
+    <string name="toy_story_characters">
+        * Woody
+        \n* Buzz Lightyear
+        \n* Rex
+        \n* Slinky Dog
+        \n* Mr. Potato Head
+        \n* Bo Peep </string>
+    <string name="up_year">2009</string>
+    <string name="up_duration">1h 36m</string>
+    <string name="up_description">78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.</string>
+    <string name="up_rating">8.3</string>
+    <string name="up_quote">"Thanks for the adventure. Now go have a new one." - Ellie</string>
+    <string name="up_characters">
+        * Carl Fredricksen
+        \n* Russell
+        \n* Dug (dog)
+        \n* Kevin (bird)
+        \n* Charles Muntz </string>
+    <string name="WALLE_year">2008</string>
+    <string name="WALLE_duration">1h 38m</string>
+    <string name="WALLE_description">A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.</string>
+    <string name="WALLE_rating">8.4</string>
+    <string name="WALLE_quote">"I don't want to survive. I want to live!" - Captain</string>
+    <string name="WALLE_characters">
+        * WALL·E
+        \n* EVE
+        \n* M-O (Microbe Obliterator)
+        \n* AUTO (Autopilot)
+        \n* Captain B. McCrea </string>
+    <string name="tap">TAP ME!</string>
+    <string name="tap_text">Tap the button to see the movies</string>
+    <string name="name">Name</string>
+    <string name="year">Year</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="release_year">Release Year:</string>
+    <string name="movie_year">year</string>
+    <string name="duration">Duration:</string>
+    <string name="description">Description:</string>
+    <string name="back">Back</string>
+    <string name="rating">Rating</string>
+    <string name="quotes">Quotes:</string>
+    <string name="home">Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_user">Hi user</string>
+    <string name="join_us">Join us</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_register">Login/Register</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="countries_array">
+        <item>Egypt</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>England</item>
+        <item>Japan</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>USA</item>
+        <item>China</item>
+        <item>India</item>
+    </string-array>
+</resources>

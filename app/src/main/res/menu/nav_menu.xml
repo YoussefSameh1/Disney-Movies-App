@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_quotes"
+            android:icon="@drawable/quotes_111_svgrepo_com"
+            android:title="Latest quotes" />
+        <item
+            android:id="@+id/nav_movies"
+            android:icon="@drawable/list_ul_alt_svgrepo_com"
+            android:title="Movies List" />
+        <item
+            android:id="@+id/nav_characters"
+            android:icon="@drawable/people_svgrepo_com"
+            android:title="Movies Characters" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/favorite_svgrepo_com"
+            android:title="Favourits" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about_svgrepo_com"
+            android:title="About Us" />
+    </group>
+
+        <item android:title="Comunicate">
+            <menu>
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share_svgrepo_com"
+                    android:title="Share" />
+            </menu>
+        </item>
+</menu>
